@@ -1,52 +1,52 @@
-\# ShareHub – Community Item Sharing Application
+# ShareHub – Community Item Sharing Application
 
 
 
-\## Project Description
+## Project Description
 
 ShareHub is a Python-based application that allows community members to share items and manage borrowing and returning activities.
 
 
 
-\## Technologies Used
+## Technologies Used
 
-\- Python
+- Python
 
-\- Tkinter
+- Tkinter
 
-\- SQLite
-
-
-
-\## Features
-
-\- Add items
-
-\- View items
-
-\- Search items
-
-\- Update and delete items
-
-\- Borrow and return items
-
-\- Store item details in an SQLite database
+- SQLite
 
 
 
-\## How to Run
+## Features
 
-1\. Install Python.
+- Add items
 
-2\. Download or clone this repository.
+- View items
 
-3\. Open the project folder in a terminal.
+- Search items
 
-4\. Run `python main.py`.
+- Update and delete items
+
+- Borrow and return items
+
+- Store item details in an SQLite database
 
 
 
-\## Project Objective
+## How to Run
+
+1. Install Python.
+
+2. Download or clone this repository.
+
+3. Open the project folder in a terminal.
+
+4. Run `python main.py`.
+
+
+
+## Project Objective
 
 To encourage community sharing and simplify the management of borrowed and returned items.
 
